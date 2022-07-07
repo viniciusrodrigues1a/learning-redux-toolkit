@@ -1,0 +1,15 @@
+.logout {
+  width: 100%;
+  border: none;
+  background: none;
+  color: #ff006e;
+  font-weight: bold;
+  font-size: 1.15rem;
+  letter-spacing: 0.025rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.logout:hover {
+  color: #e50063;
+}

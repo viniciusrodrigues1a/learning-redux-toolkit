@@ -1,0 +1,52 @@
+{
+  "users": [
+    { "id": "e0629cc9-e0a8-4967-ab37-d700573c1531", "name": "Amy" },
+    { "id": "3756d8b4-a2a2-4fd0-829b-584117003892", "name": "Jules" },
+    { "id": "90bd7e9a-4bda-4625-8814-7d84e1293210", "name": "John" }
+  ],
+  "posts": [
+    {
+      "id": "9c466a46-52c2-422b-bc19-c19e1a42f8d5",
+      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      "authorId": "e0629cc9-e0a8-4967-ab37-d700573c1531",
+      "createdAt": "2022-07-06T21:12:32.877Z",
+      "reactions": {
+        "thumbsUp": 2,
+        "heart": 2,
+        "surprised": 0,
+        "popcorn": 0,
+        "ball": 1,
+        "donut": 1
+      }
+    },
+    {
+      "id": "885e51ec-8f35-46ff-90bb-2786dcbf9843",
+      "content": "Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "authorId": "e0629cc9-e0a8-4967-ab37-d700573c1531",
+      "createdAt": "2022-07-06T19:23:44.557Z",
+      "reactions": {
+        "thumbsUp": 2,
+        "heart": 3,
+        "surprised": 0,
+        "popcorn": 1,
+        "ball": 0,
+        "donut": 1
+      }
+    },
+    {
+      "id": "916c6be3-5b00-4547-9770-ace9793bcd29",
+      "content": "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+      "authorId": "3756d8b4-a2a2-4fd0-829b-584117003892",
+      "createdAt": "2022-07-03T19:23:44.557Z",
+      "reactions": {
+        "thumbsUp": 5,
+        "heart": 3,
+        "surprised": 1,
+        "popcorn": 2,
+        "ball": 0,
+        "donut": 3
+      }
+    }
+  ]
+}
+

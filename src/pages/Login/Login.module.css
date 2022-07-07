@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.content {
+  width: 32rem;
+  background-color: #e3e3e3;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 4rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+}
+
+.buttonContainer {
+  margin-top: 1.25rem;
+}

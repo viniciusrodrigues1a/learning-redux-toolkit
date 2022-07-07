@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  align-items: center;
+  height: 2rem;
+}
+
+.reaction {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.reaction + .reaction {
+  margin-left: 0.6rem;
+}
+
+.reaction {
+  font-size: 1rem;
+  transition: all 0.2s;
+}
+
+.reaction:hover {
+  font-size: 1.25rem;
+}
+
+.reactionCounter {
+  font-size: 1rem;
+  margin-left: 0.15rem;
+  color: #444444;
+}
