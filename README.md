@@ -8,7 +8,15 @@ Getting up to date with Redux best practices using Redux Toolkit, since the last
 yarn jsonserver --path fakedb.json --port 3333
 ```
 
-## Run the app
+## Running the app
+
+### Install the dependencies
+
+```bash
+yarn
+```
+
+### Run the start script
 
 ```bash
 yarn start
