@@ -1,4 +1,4 @@
-Getting up to date with Redux best practices using Redux Toolkit, since the last time I used Redux was a long time ago.
+Getting up to date with Redux best practices using Redux Toolkit.
 
 # How to run the app locally
 
